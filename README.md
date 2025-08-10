@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahanrathnaweera" alt="sahanrathnaweera" /></a> </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="500">
+<br><br>
+
+
+
 - 🌱 I’m currently learning **Frontend development & Backend development**
 
 - 📫 How to reach me **sahantharuka0909@gmail.com**
