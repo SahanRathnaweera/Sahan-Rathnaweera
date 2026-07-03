@@ -7,9 +7,7 @@
 
 
 
-## 🐍 My GitHub Contribution Snake
 
-![Github Snake](https://raw.githubusercontent.com/SahanRathnaweera/SahanRathnaweera/output/github-contribution-grid-snake.svg)
 
 
 
