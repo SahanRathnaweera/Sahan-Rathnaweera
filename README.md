@@ -42,7 +42,7 @@ public class SahanRathnaweera implements SoftwareEngineer, QEAutomationEngineer 
         while (alive) {
             buildFeature();
             writeAutomatedTests();
-            fixFlakyTest();        // 😅 every team has one
+            fixFlakyTest();        
             learnSomethingNew();
         }
     }
@@ -145,13 +145,13 @@ flowchart LR
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=false&width=500&height=50&lines=GitHub+Stats" alt="GitHub Stats" />
 
-<!-- If these cards look empty while your profile is new, just delete this block for now. -->
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SahanRathnaweera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanRathnaweera&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 <img src="https://streak-stats.demolab.com/?user=SahanRathnaweera&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/><br/>
+
+<a href="https://github.com/SahanRathnaweera?tab=followers">
+  <img src="https://img.shields.io/github/followers/SahanRathnaweera?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb" alt="GitHub followers" />
+</a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:8957e5,100:f778ba&height=3" width="100%" alt="divider" />
@@ -172,7 +172,7 @@ flowchart LR
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TODO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-tharuka-28066436b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TODO@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahanRathnaweera)
 
