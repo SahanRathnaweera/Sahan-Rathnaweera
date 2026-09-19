@@ -13,8 +13,8 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Role-Software_Engineer-1f6feb?style=for-the-badge&logo=spring&logoColor=white" alt="Software Engineer" />
-<img src="https://img.shields.io/badge/Role-QE_Automation_Engineer-8957e5?style=for-the-badge&logo=selenium&logoColor=white" alt="QE Automation Engineer" />
+<img src="https://img.shields.io/badge/Role-Software_Engineer-1f6feb?style=for-the-badge&logo=spring&logoColor=white" alt="Software Engineer Intern" />
+<img src="https://img.shields.io/badge/Role-QE_Automation_Engineer-8957e5?style=for-the-badge&logo=selenium&logoColor=white" alt="Test Automation Engineer Intern" />
 <img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=for-the-badge" alt="Open to work" />
 
 <br/><br/>
