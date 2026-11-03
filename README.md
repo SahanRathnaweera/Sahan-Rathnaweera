@@ -93,17 +93,6 @@ public class SahanRathnaweera implements SoftwareEngineer, QEAutomationEngineer 
 
 <div align="center">
 
-### ⚙️ DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,idea,vscode&perline=7&theme=dark" alt="Tools" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:8957e5,100:f778ba&height=3" width="100%" alt="divider" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Build+It%2C+Then+Prove+It" alt="Build It, Then Prove It" />
-</div>
 
 | 👨‍💻 Software Engineering | 🧪 QE Automation |
 |---|---|
@@ -112,6 +101,9 @@ public class SahanRathnaweera implements SoftwareEngineer, QEAutomationEngineer 
 | Model & query data in **PostgreSQL / MySQL** | Validate **APIs** with REST Assured / Postman |
 | Manage DB schemas & queries with **pgAdmin 4** | Verify **data integrity** with SQL checks against the DB |
 | Clean code, layered architecture, Git workflow | Run suites in **CI (GitHub Actions / Jenkins)** with Allure reports |
+
+
+
 
 ```mermaid
 flowchart LR
